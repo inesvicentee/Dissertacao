@@ -1,4 +1,4 @@
--------------------------  ANTI-HISTAMINICOS -------------------------
+-------------------------  ANTI-HISTAMINICOS ---------------------------------------------------------------------------
 <u><b>NOTEBOOKS:</b></u>
 Anti_Histaminicos_nb1
 Anti_Histaminicos_nb2
@@ -21,7 +21,7 @@ categoria_medicamentos_AH
 <u><b>DADOS INTERMÉDIOS:</b></u>
 df_nb1
 
--------------------------  DOR DE GARGANTA E ROUQUIDÃO -------------------------
+-------------------------  DOR DE GARGANTA E ROUQUIDÃO ---------------------------------------------------------------------------
 <u><b>NOTEBOOKS:</b></u>
 Dor_Garganta_Roquidao_nb1
 Dor_Garganta_Roquidao_nb2
@@ -44,7 +44,7 @@ categoria_medicamentos_garganta
 <u><b>DADOS INTERMÉDIOS:</b></u>
 df_nb1
 
--------------------------  GRIPES E CONSTIPAÇÕES -------------------------
+-------------------------  GRIPES E CONSTIPAÇÕES ---------------------------------------------------------------------------
 <u><b>NOTEBOOKS:</b></u>
 Gripes_Constipacoes_nb1
 Gripes_Constipacoes_nb2
@@ -78,7 +78,7 @@ categorias_medicamentos
 <u><b>DADOS INTERMÉDIOS:</b></u>
 df_nb1
 
--------------------------  TOSSE -------------------------
+-------------------------  TOSSE ---------------------------------------------------------------------------
 <u><b>NOTEBOOKS:</b></u>
 Tosse_nb1
 Tosse_nb2
